@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Android Development, **Kotlin Multiplatform, Jetpack Compose**
 
-- 📫 How to reach me **nguyenphungthinh03@gmail.com**
+- 📫 How to reach me: **nguyenphungthinh03@gmail.com**
 
 <p align="left">
 </p>
