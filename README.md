@@ -8,8 +8,7 @@
 
 <p align="left">
 
-https://github.com/RyuuyaS/RyuuyaS/assets/85359791/271a15d6-bafb-4e04-a5b5-44f17d7c05c7
-
+![golang](https://github.com/RyuuyaS/RyuuyaS/assets/85359791/cfcb45dc-1d8e-4ca9-b14f-d6dcc0785db2)
 
 </p>
 
