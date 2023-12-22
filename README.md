@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thinh</h1>
-<h3 align="center">A noob who likes to learn Android Development</h3>
+<h3 align="center">A noob who likes Android Development, KMP and DevOps</h3>
 
-- 🌱 I’m currently learning Android Development, **Kotlin Multiplatform, Jetpack Compose**
+- 👩‍💻 Right now I'm learning about **DevOps**.
+- 🌱 I’m enthusiastic about Android Development and KMP, **Kotlin Multiplatform, Jetpack Compose**
 
 - 📫 How to reach me: **nguyenphungthinh03@gmail.com**
 
 <p align="left">
+
+https://github.com/RyuuyaS/RyuuyaS/assets/85359791/271a15d6-bafb-4e04-a5b5-44f17d7c05c7
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
